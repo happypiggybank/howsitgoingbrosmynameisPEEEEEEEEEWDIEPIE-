@@ -1,0 +1,21 @@
+.center { text-align: center;
+ font-size: 70px;
+ color:red;
+ font-family: 'Macondo', cursive;
+}
+
+
+img{
+			width:30%;
+	
+		}
+		body{
+			background-image: url("https://motherboard-images.vice.com/content-images/contentimage/20840/1429005003582922.jpg?crop=1xw:0.9007352941176471xh;center,center&resize=0:*");
+			background-size: cover;
+			background-repeat: no-repeat;
+		}
+
+		iframe {
+			margin-left: 20em;
+
+		}
